@@ -1,4 +1,4 @@
-# scala-assignment \
+# scala-assignment 
 \
 1. Bucketise the given array[Double] into buckets having range interval (x, x+0.049).\
 \
