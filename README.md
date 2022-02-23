@@ -1,7 +1,7 @@
 # scala-assignment 
 
 1. Bucketise the given array[Double] into buckets having range interval (x, x+0.049).\
-\
+
 0.000 - 0.049\
 0.050 - 0.099\
 0.100 - 0.149\
@@ -13,12 +13,12 @@
 ...\
 ...\
 100.000 - 100.049\
-\
+
 
 Sample -\
 12.05, 12.03, 10.33, 11.45, 13.50\
 Output- [12.050-12.099, 12.050-12.099, 10.300-10.349, 11.450-11.499, 13.500-13.549]\
-\
+
 
 2. For given players statistics..\
     Found the below -\
