@@ -12,7 +12,7 @@
 0.350 - 0.399\
 ...\
 ...\
-100.000 - 100.049\
+100.000 - 100.049
 
 
 Sample -\
@@ -21,7 +21,7 @@ Output- [12.050-12.099, 12.050-12.099, 10.300-10.349, 11.450-11.499, 13.500-13.5
 
 
 2. For given players statistics..\
-    Found the below \
+    Found the below\
 1. Player with the best highest run scored\
 2. Top 5 players by run scored\
 3. Top 5 players by wicket taken\
