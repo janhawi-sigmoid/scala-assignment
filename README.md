@@ -14,12 +14,12 @@
 ...\
 100.000 - 100.049\
 \
-\
+
 Sample -\
 12.05, 12.03, 10.33, 11.45, 13.50\
 Output- [12.050-12.099, 12.050-12.099, 10.300-10.349, 11.450-11.499, 13.500-13.549]\
 \
-\
+
 2. For given players statistics..\
     Found the below -\
 1. Player with the best highest run scored.\
